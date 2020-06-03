@@ -1,4 +1,4 @@
-# TinyFPGA Programmer
+# TinyFPGA Programmer ##
 The TinyFPGA Programmer is a very simple USB-JTAG bridge designed to 
 program bitstreams onto TinyFPGA A1 and A2 boards.  
 
