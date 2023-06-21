@@ -618,7 +618,7 @@ class JtagStateMachine(object):
 
         dist[source] = 0
 
-        while len(q) is not 0:
+        while len(q) != 0:
             u = min(q, key = lambda x: dist[x])
             q.remove(u)
 
